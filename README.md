@@ -1,4 +1,5 @@
 #  SaaS Product Retention & Churn Prediction Dashboard
+![](https://github.com/jamesbond-iit/SaaS-Product-Retention-Churn-Prediction-Dashboard/blob/main/dashboard%20SAAS.png)
 
 ## Business-first Product Analytics Project
 
