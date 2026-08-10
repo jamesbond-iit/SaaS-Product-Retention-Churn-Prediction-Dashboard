@@ -80,7 +80,9 @@ The dataset is synthetic and created for educational and portfolio purposes. It 
 
 **K. James Bond**
 
-Aspiring Data Analyst / Business Analyst — IIT Madras
+Aspiring Data Analyst / Business Analyst 
+
+IIT Madras
 
 GitHub: https://github.com/jamesbond-iit
 
