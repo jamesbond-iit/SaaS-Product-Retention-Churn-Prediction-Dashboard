@@ -1,0 +1,2 @@
+CREATE TABLE saas_users (user_id VARCHAR(20) PRIMARY KEY, signup_date DATE, plan_tier VARCHAR(20), region VARCHAR(30), acquisition_channel VARCHAR(30), company_segment VARCHAR(30), monthly_logins INT, features_used INT, support_tickets INT, team_size INT, api_adopted INT, churned INT, churn_date DATE, monthly_price NUMERIC(10,2), acquisition_cost NUMERIC(10,2), estimated_ltv NUMERIC(12,2));
+CREATE TABLE saas_events (user_id VARCHAR(20), event_date DATE, event_type VARCHAR(30));
